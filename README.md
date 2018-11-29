@@ -1,19 +1,19 @@
 # laravel-blueprint-extend-set
 
-# Installation
+## Installation
 
 ~~~bash
 composer require huangdijia/laravel-blueprint-extend-set
 ~~~
 
-# Usage
+## Usage
 
 ~~~php
-$table->set('test_set2', ['', 'a', 'b'])->default('')->comment('test set 2');
-~~~
-
-or
-
-~~~php
-$table->addColumn('set', 'test_set1',  ['allowed'=>['', 'a', 'b']])->default('')->comment('test set 1');
+Schema::create('table', function (Blueprint $table) {
+    // ...
+    $table->set('set1', ['', 'a', 'b']);
+    // or
+    $table->addColumn('set', 'set2',  ['allowed'=>['', 'a', 'b']]);
+    // ...
+});
 ~~~
