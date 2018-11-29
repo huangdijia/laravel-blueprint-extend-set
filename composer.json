@@ -1,0 +1,40 @@
+{
+    "name": "huangdijia/laravel-blueprint-extend-set",
+    "description": "Extend Laravel Blueprint Mysql Set",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "blueprint",
+        "schema",
+        "grammar",
+        "set"
+    ],
+    "homepage": "https://github.com/huangdijia/laravel-blueprint-extend-set",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huangdijia",
+            "email": "huangdijia@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3",
+        "illuminate/container": "5.7.*",
+        "illuminate/contracts": "5.7.*",
+        "illuminate/support": "5.7.*"
+    },
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "Huangdijia\\Database\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Huangdijia\\Database\\ServiceProvider"
+            ]
+        }
+    }
+}
