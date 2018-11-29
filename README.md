@@ -1,5 +1,11 @@
 # laravel-blueprint-extend-set
 
+# Installation
+
+~~~bash
+composer require huangdijia/laravel-blueprint-extend-set
+~~~
+
 # Usage
 
 ~~~php
