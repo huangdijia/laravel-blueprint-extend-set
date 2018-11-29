@@ -33,7 +33,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Huangdijia\\Database\\ServiceProvider"
+                "Huangdijia\\Database\\ExtendServiceProvider"
             ]
         }
     }
