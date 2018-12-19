@@ -1,5 +1,8 @@
 # laravel-blueprint-extend-set
 
+[![Latest Stable Version](https://poser.pugx.org/huangdijia/laravel-blueprint-extend-set/version.png)](https://packagist.org/packages/huangdijia/laravel-blueprint-extend-set)
+[![Total Downloads](https://poser.pugx.org/huangdijia/laravel-blueprint-extend-set/d/total.png)](https://packagist.org/packages/huangdijia/laravel-blueprint-extend-set)
+
 ## Installation
 
 ~~~bash
