@@ -3,6 +3,13 @@
 [![Latest Stable Version](https://poser.pugx.org/huangdijia/laravel-blueprint-extend-set/version.png)](https://packagist.org/packages/huangdijia/laravel-blueprint-extend-set)
 [![Total Downloads](https://poser.pugx.org/huangdijia/laravel-blueprint-extend-set/d/total.png)](https://packagist.org/packages/huangdijia/laravel-blueprint-extend-set)
 
+## ⚠️⚠️⚠️
+
+> Official support in 5.8.12
+
+https://laravel-news.com/laravel-5-8-12
+https://github.com/laravel/framework/pull/28171
+
 ## Installation
 
 ~~~bash
