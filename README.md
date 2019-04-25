@@ -7,8 +7,8 @@
 
 > Official support in 5.8.12
 
-https://laravel-news.com/laravel-5-8-12
-https://github.com/laravel/framework/pull/28171
+- https://laravel-news.com/laravel-5-8-12
+- https://github.com/laravel/framework/pull/28171
 
 ## Installation
 
